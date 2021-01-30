@@ -1,0 +1,56 @@
+@charset "UTF-8";
+
+/* ez most mind nem kell :) 
+/*MINDEN BOOTSTRAPBŐL KELL JÖJJÖN!  CSAK A body és a main háttere jöjjön css-ből!
+nav a {
+    text-decoration:none;
+    color:blue;
+}
+
+nav li {
+  list-style-type: none;
+
+}
+
+article {
+  text-align: justify;
+}
+
+body {
+  background-color:blue;
+  
+}
+.bejelentkezes {background-color:blue;}
+.regisztracio {background-color:grey;}
+
+article img {
+  padding: 5px;
+}
+
+article a {
+  text-decoration:none;
+  color:blue;
+
+}
+
+article li {
+list-style-type: none;
+text-align: center; 
+}
+
+
+
+
+.fekete {background-color:black;}
+.szurke {background-color:grey;}
+.cim {color:white;}
+
+
+footer{
+  position: absolute; 
+  bottom: 0; 
+  left: 0; 
+  right: 0;
+  }
+
+  */
